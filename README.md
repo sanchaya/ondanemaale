@@ -21,8 +21,6 @@ Thanks per advance !
 
 ## Licence
 
-The Digital Kannada Books website is licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
-
 Each book has its own licence, see book homepage.
 
 ## About us
